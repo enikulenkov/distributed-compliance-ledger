@@ -10,7 +10,7 @@ DC Ledger is a public permissioned Ledger which can be used for two main use cas
  - ZB compliance certification of device models
  - Public key infrastructure (PKI)
  
-More information about use cases can be found in [DC Ledger Overview](docs/ZB_Ledger_overview.pdf) and [Use Case Diagrams](docs/use_cases).
+More information about use cases can be found in [DC Ledger Overview](docs/DCL-Overview.pdf) and [Use Case Diagrams](docs/use_cases).
 
 DC Ledger is based on [Tendermint](https://tendermint.com/) and [Cosmos SDK](https://cosmos.network/sdk).
 
